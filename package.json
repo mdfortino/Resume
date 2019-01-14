@@ -1,0 +1,23 @@
+{
+  "bin": {
+    "MariaF": "./index.js"
+  },
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Maria Fortino Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Fortino",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdfortino"
+  },
+  "keywords": [
+    "npm",
+    "resume"
+  ]
+}
+
